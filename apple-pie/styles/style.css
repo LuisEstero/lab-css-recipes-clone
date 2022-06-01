@@ -1,3 +1,29 @@
-# fondo {
-    size: 40px;
+.apple {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    position: static;
+    
+}
+.container3 {
+    font-size: 10px;
+    position: static;
+    flex-direction: row;
+    margin-bottom: 0;
+}
+.img {
+    font-size: medium;
+}
+h1 {
+    color: red;
+}
+applepie {
+    color: red;
+}
+#ingredients {
+size: 10px;
+}
+p {
+     size: 10px;
+     font-style: italic;
 }
